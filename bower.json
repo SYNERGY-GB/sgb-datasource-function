@@ -6,7 +6,7 @@
     "Saul Hernandez <sauldhernandez@gmail.com>"
   ],
   "description": "Takes a function as a data source.",
-  "main": "dist/sgb-datasource-function",
+  "main": "dist/sgb-datasource-function.js",
   "moduleType": [
     "globals"
   ],
